@@ -57,6 +57,8 @@
     <Content Include="Ara2\AraGoogleMaps\AraGoogleMaps.js" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Ara2\AraGoogleMaps\CREDITS.md" />
+    <None Include="Ara2\AraGoogleMaps\LICENSE.md" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
