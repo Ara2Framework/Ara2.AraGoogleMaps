@@ -55,11 +55,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Ara2\AraGoogleMaps\AraGoogleMaps.js" />
+    <Content Include="Ara2\Components\AraGoogleMaps\AraGoogleMaps.js" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Ara2\AraGoogleMaps\CREDITS.md" />
-    <None Include="Ara2\AraGoogleMaps\LICENSE.md" />
+    <None Include="Ara2\Components\AraGoogleMaps\CREDITS.md" />
+    <None Include="Ara2\Components\AraGoogleMaps\LICENSE.md" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
