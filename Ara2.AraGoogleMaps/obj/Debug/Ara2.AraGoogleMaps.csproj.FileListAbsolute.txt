@@ -1,1 +1,6 @@
 C:\Tecnomips\Ara.Net2\Ara2.AraGoogleMaps\Ara2.AraGoogleMaps\obj\Debug\Ara2.AraGoogleMaps.csprojResolveAssemblyReference.cache
+C:\Tecnomips\Ara.Net2\Ara2.AraGoogleMaps\Ara2.AraGoogleMaps\bin\Debug\Ara2.AraGoogleMaps.dll
+C:\Tecnomips\Ara.Net2\Ara2.AraGoogleMaps\Ara2.AraGoogleMaps\bin\Debug\Ara2.AraGoogleMaps.pdb
+C:\Tecnomips\Ara.Net2\Ara2.AraGoogleMaps\Ara2.AraGoogleMaps\bin\Debug\Ara2.dll
+C:\Tecnomips\Ara.Net2\Ara2.AraGoogleMaps\Ara2.AraGoogleMaps\obj\Debug\Ara2.AraGoogleMaps.dll
+C:\Tecnomips\Ara.Net2\Ara2.AraGoogleMaps\Ara2.AraGoogleMaps\obj\Debug\Ara2.AraGoogleMaps.pdb
