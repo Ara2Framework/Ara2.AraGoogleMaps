@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Ara2, Version=1.2.5946.20635, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Ara2.1.2.5946.20635\lib\net40\Ara2.dll</HintPath>
+      <HintPath>..\packages\Ara2.1.2.5946.20635\lib\net40\Ara2.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
