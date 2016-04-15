@@ -44,13 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AraComponentsServer\Components\AraGoogleMaps.cs" />
-    <Compile Include="AraComponentsServer\Components\AraGoogleMapsCircle.cs" />
-    <Compile Include="AraComponentsServer\Components\AraGoogleMapsCircles.cs" />
-    <Compile Include="AraComponentsServer\Components\AraGoogleMapsMarker.cs" />
-    <Compile Include="AraComponentsServer\Components\AraGoogleMapsMarkers.cs" />
-    <Compile Include="AraComponentsServer\Components\AraGoogleMapsPolygon.cs" />
-    <Compile Include="AraComponentsServer\Components\AraGoogleMapsPolygons.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMaps.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMapsCircle.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMapsCircles.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMapsMarker.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMapsMarkers.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMapsPolygon.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraGoogleMapsPolygons.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
